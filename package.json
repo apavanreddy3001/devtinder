@@ -1,0 +1,24 @@
+{
+  "name": "devtender",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pavanreddy003@bitbucket.org/p1workspace/devtender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/p1workspace/devtender/issues"
+  },
+  "homepage": "https://bitbucket.org/p1workspace/devtender#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9"
+  }
+}
